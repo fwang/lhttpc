@@ -1,3 +1,6 @@
+# CHANGES
+Made minor changes to have lhttpc work on Erlang/OTP R17 or newer.
+
 # NOTICE
 **This project is not supported anymore.**
 It's still here just to support legacy projects that may have it as a dependency.
