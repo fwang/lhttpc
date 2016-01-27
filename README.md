@@ -1,5 +1,5 @@
 # CHANGES
-Made minor changes to have lhttpc work on Erlang/OTP R17 or newer.
+Made minor changes to have lhttpc work with rebar3.
 
 # NOTICE
 **This project is not supported anymore.**
